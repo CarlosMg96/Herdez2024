@@ -87,7 +87,11 @@ En Grupo Herdez<sup>®</sup>, día a día integramos la sostenibilidad, tecnolog
                         <div class="fpd fpd0" style="height:90vh !important; bottom:1vh !important;">
                             <img src="im/director.png?v=1" class="pFoto">
                         </div>
-                        <div class="downBox"><img class="down" src="im/descargar.svg"></div>
+                        <div class="downBox">
+                            <a target="_new" href="pdf/es/Mensaje_2024.pdf">
+                                <img class="down" src="im/descargar.svg">
+                            </a>
+                        </div>
 
                         <div class="flex5 elMensaje">
 
@@ -130,7 +134,9 @@ En Grupo Herdez<sup>®</sup>, día a día integramos la sostenibilidad, tecnolog
                         <div class="fpd fpdDir fpd0" >
                             <img src="im/director.png?v=1" class="pFoto">
                         </div>
-                        <div class="downBoxQAM"><img class="down" src="im/descargar.svg"></div>
+                        <a target="_new" href="pdf/es/Mensaje_2024.pdf">
+                            <div class="downBoxQAM"><img class="down" src="im/descargar.svg"></div>
+                        </a>
 
                         <div class="flex5 elMensaje">
 
@@ -180,8 +186,11 @@ En Grupo Herdez<sup>®</sup>, día a día integramos la sostenibilidad, tecnolog
                             En Grupo Herdez<sup>®</sup> sabemos que el valor de <span class="pt-sans-bold">#LoQueLlevamosDentro</span> radica en el compromiso sólido que nos define e impulsa a actuar con integridad.
                         </div>
                         <div class="downBox">Compromiso sólido<br>
-                        <br>
-                        <img class="down" src="im/descargar.svg"></div>
+                            <br>
+                            <a target="_new" href="pdf/es/compromiso_solido.pdf">
+                                <img class="down" src="im/descargar.svg">
+                            </a>
+                        </div>
                     </div>
                 </li>
 
@@ -201,7 +210,10 @@ En Grupo Herdez<sup>®</sup>, día a día integramos la sostenibilidad, tecnolog
                             </p>    
                         </div>
                         <div class="downBoxM">Compromiso sólido<br><br>
-                            <img class="down" src="im/descargar.svg"></div>                        
+                            <a target="_new" href="pdf/es/compromiso_solido.pdf">
+                                <img class="down" src="im/descargar.svg">
+                            </a>
+                        </div>                        
                     </div>
                 </li>
 
@@ -220,7 +232,11 @@ En Grupo Herdez<sup>®</sup>, día a día integramos la sostenibilidad, tecnolog
                             Para Grupo Herdez<sup>®</sup>, la sostenibilidad del negocio no es solo un compromiso, es <span class="pt-sans-bold">#LoQueLlevamosDentro</span>. Nos guía el propósito de ser pasión, cultura y referente mundial de innovación en desarrollo sostenible.
                      </div>
 
-                        <div class="downBox">Alineación estretégica<br><br><img class="down" src="im/descargar.svg"></div>
+                        <div class="downBox">Alineación estretégica<br><br>
+                            <a target="_new" href="pdf/es/alineacion_estrategica.pdf">
+                                <img class="down" src="im/descargar.svg">
+                            </a>
+                        </div>
                     </div>
                 </li>
 
@@ -237,7 +253,11 @@ En Grupo Herdez<sup>®</sup>, día a día integramos la sostenibilidad, tecnolog
                             <p class="wh parrM">
                                 Para Grupo Herdez<sup>®</sup>, la sostenibilidad del negocio no es solo un compromiso, es <span class="pt-sans-bold">#LoQueLlevamosDentro</span>. Nos guía el propósito de ser pasión, cultura y referente mundial de innovación en desarrollo sostenible.</p>    
                         </div>
-                        <div class="downBoxM">Alineación estretégica<br><br><img class="down" src="im/descargar.svg"></div>                        
+                        <div class="downBoxM">Alineación estretégica<br><br>
+                            <a target="_new" href="pdf/es/alineacion_estrategica.pdf">
+                                <img class="down" src="im/descargar.svg">
+                            </a>
+                        </div>             
                     </div>
                 </li>
 
@@ -264,7 +284,11 @@ En Grupo Herdez<sup>®</sup>, día a día integramos la sostenibilidad, tecnolog
                         <div class="parr">
                             La capacidad de adaptación es parte de nuestra identidad. Durante más de 110 años, en Grupo Herdez<sup>®</sup> nos ha definido la determinación para evolucionar y así reinventarnos.</div>
 
-                        <div class="downBox">Innovación y desarrollo<br><br><img class="down" src="im/descargar.svg"></div>
+                        <div class="downBox">Innovación y desarrollo<br><br>
+                            <a target="_new" href="pdf/es/innovacion_y_desarrollo.pdf">
+                                <img class="down" src="im/descargar.svg">
+                            </a>
+                            </div>
                     </div>
                 </li>
 
@@ -285,7 +309,11 @@ En Grupo Herdez<sup>®</sup>, día a día integramos la sostenibilidad, tecnolog
                             <p class="wh parrM">
                                 La capacidad de adaptación es parte de nuestra identidad. Durante más de 110 años, en Grupo Herdez<sup>®</sup> nos ha definido la determinación para evolucionar y así reinventarnos.</p>    
                         </div>
-                        <div class="downBoxM">Innovación y desarrollo<br><br><img class="down" src="im/descargar.svg"></div>                        
+                        <div class="downBoxM">Innovación y desarrollo<br><br>
+                            <a target="_new" href="pdf/es/innovacion_y_desarrollo.pdf">
+                                <img class="down" src="im/descargar.svg">
+                            </a>
+                        </div>                        
                     </div>
                 </li>
 
@@ -329,7 +357,11 @@ En Grupo Herdez<sup>®</sup>, día a día integramos la sostenibilidad, tecnolog
                         <div class="parr">
                         Nuestras acciones a favor del planeta están orientadas a la eficiencia en el uso del agua y la energía; la disminución de nuestra huella de carbono; y la restauración de los ecosistemas.</div>
 
-                        <div class="downBox">Entorno ambiental<br><br><img class="down" src="im/descargar.svg"></div>
+                        <div class="downBox">Entorno ambiental<br><br>
+                            <a target="_new" href="pdf/es/entorno_ambiental.pdf">
+                                <img class="down" src="im/descargar.svg">
+                            </a>
+                        </div>
                     </div>
                 </li>
 
@@ -349,7 +381,10 @@ En Grupo Herdez<sup>®</sup>, día a día integramos la sostenibilidad, tecnolog
                             </p>    
                         </div>
                         <div class="downBoxM">Entorno ambiental<br><br>
-                        <img class="down" src="im/descargar.svg"></div>                        
+                            <a target="_new" href="pdf/es/entorno_ambiental.pdf">
+                                <img class="down" src="im/descargar.svg">
+                            </a>
+                        </div>              
                     </div>
                 </li>
 
@@ -375,7 +410,9 @@ En Grupo Herdez<sup>®</sup>, día a día integramos la sostenibilidad, tecnolog
                         </div>
 
                         <div class="downBox">Entorno social<br><br>
-                            <img class="down" src="im/descargar.svg">
+                            <a target="_new" href="pdf/es/entorno_social.pdf">
+                                <img class="down" src="im/descargar.svg">
+                            </a>
                         </div>
                     </div>
                 </li>  
@@ -397,7 +434,9 @@ En Grupo Herdez<sup>®</sup>, día a día integramos la sostenibilidad, tecnolog
                             </p>    
                         </div>
                         <div class="downBoxM">Entorno social<br><br>
-                            <img class="down" src="im/descargar.svg">
+                            <a target="_new" href="pdf/es/entorno_social.pdf">
+                                <img class="down" src="im/descargar.svg">
+                            </a>
                         </div>
                     </div>
                 </li>
@@ -563,11 +602,6 @@ En Grupo Herdez<sup>®</sup>, día a día integramos la sostenibilidad, tecnolog
     </div>
     <br>
 </div>
-
-
-
-<div id="px">999</div><div id="px2">999</div>
-<div id="pxDelta" style="display:none; background-color:rgba(0,0,0,0.5); text-align:center;width:60px; color:cyan; position:fixed; top:4px;right:270px; opacity:1; font-size:1em; z-index:20;">pxDelta</div>
 
 
 <div class="progress" id="progress"></div>

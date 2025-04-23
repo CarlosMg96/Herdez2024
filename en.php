@@ -83,7 +83,11 @@ echo<<<HTML
                         <div class="fpd fpd0 dirPh">
                             <img src="im/director.png?v=1" class="pFoto">
                         </div>
-                        <div class="downBox"><img class="down" src="im/descargar_en.svg"></div>
+                        <div class="downBox">
+                            <a target="_new" href="pdf/en/Mensaje_2024.pdf">
+                                <img class="down" src="im/descargar_en.svg">
+                            </a>
+                        </div>
 
                         <div class="flex5 elMensaje">
 
@@ -118,7 +122,11 @@ echo<<<HTML
                         <div class="fpd fpdDir fpd0" >
                             <img src="im/director.png?v=1" class="pFoto">
                         </div>
-                        <div class="downBoxQAM"><img class="down" src="im/descargar_en.svg"></div>
+                        <div class="downBoxQAM">
+                            <a target="_new" href="pdf/en/Mensaje_2024.pdf">
+                                <img class="down" src="im/descargar_en.svg">
+                            </a>
+                        </div>
 
                         <div class="flex5 elMensaje">
 
@@ -162,7 +170,10 @@ echo<<<HTML
                         </div>
                         <div class="downBox">Solid commitment<br>
                             <br>
-                        <img class="down" src="im/descargar_en.svg"></div>
+                            <a target="_new" href="pdf/en/compromiso_solido.pdf">
+                                <img class="down" src="im/descargar_en.svg">
+                            </a>
+                        </div>
                     </div>
                 </li>
 
@@ -180,7 +191,10 @@ echo<<<HTML
                             </p>    
                         </div>
                         <div class="downBoxM">Solid commitment<br><br>
-                            <img class="down" src="im/descargar_en.svg"></div>                        
+                            <a target="_new" href="pdf/en/compromiso_solido.pdf">
+                                <img class="down" src="im/descargar_en.svg">
+                            </a>
+                        </div>                        
                     </div>
                 </li>
 
@@ -198,7 +212,11 @@ echo<<<HTML
                             At Grupo Herdez<sup>®</sup>, sustainability is more than a commitment it’s <span class="pt-sans-bold">#WhatWeHaveWithin</span>. We are driven by the purpose of being passion, culture, and a global benchmark in sustainable development innovation.                            
                      </div>
 
-                        <div class="downBox">Strategic Alignment<br><br><img class="down" src="im/descargar_en.svg"></div>
+                        <div class="downBox">Strategic Alignment<br><br>
+                            <a target="_new" href="pdf/en/alineacion_estrategica.pdf">
+                                <img class="down" src="im/descargar_en.svg">
+                            </a>
+                        </div>
                     </div>
                 </li>
 
@@ -216,7 +234,11 @@ echo<<<HTML
                                 At Grupo Herdez<sup>®</sup>, sustainability is more than a commitment it’s <span class="pt-sans-bold">#WhatWeHaveWithin</span>. We are driven by the purpose of being passion, culture, and a global benchmark in sustainable development innovation.
                             </p>    
                         </div>
-                        <div class="downBoxM">Strategic Alignment<br><br><img class="down" src="im/descargar_en.svg"></div>                        
+                        <div class="downBoxM">Strategic Alignment<br><br>
+                            <a target="_new" href="pdf/en/alineacion_estrategica.pdf">
+                                <img class="down" src="im/descargar_en.svg">
+                            </a>
+                        </div>                        
                     </div>
                 </li>
 
@@ -241,7 +263,11 @@ echo<<<HTML
                         <div class="parr">
                             Adaptability is part of our identity. For over 110 years, we at Grupo Herdez<sup>®</sup> have been defined by the determination to evolve—and, in doing so, reinvent ourselves.</div>
 
-                        <div class="downBox">Innovation and Development<br><br><img class="down" src="im/descargar_en.svg"></div>
+                        <div class="downBox">Innovation and Development<br><br>
+                            <a target="_new" href="pdf/en/innovacion_y_desarrollo.pdf">
+                                <img class="down" src="im/descargar_en.svg">
+                            </a>
+                        </div>
                     </div>
                 </li>
 
@@ -259,12 +285,13 @@ echo<<<HTML
                             <p class="wh parrM">
                                 Adaptability is part of our identity. For over 110 years, we at Grupo Herdez<sup>®</sup> have been defined by the determination to evolve—and, in doing so, reinvent ourselves.</p>    
                         </div>
-                        <div class="downBoxM">Innovation and Development<br><br><img class="down" src="im/descargar_en.svg"></div>
+                        <div class="downBoxM">Innovation and Development<br><br>
+                            <a target="_new" href="pdf/en/innovacion_y_desarrollo.pdf">
+                                <img class="down" src="im/descargar_en.svg">
+                            </a>
+                        </div>
                     </div>
                 </li>
-
-
-
 
 
                 <li class="img-container bgGreen" />
@@ -304,7 +331,11 @@ echo<<<HTML
                         Our actions for the planet are focused on efficient use of water and energy, reducing our carbon footprint, and restoring ecosystems.
                         </div>
 
-                        <div class="downBox">Environmental impact<br><br><img class="down" src="im/descargar_en.svg"></div>
+                        <div class="downBox">Environmental impact<br><br>
+                            <a target="_new" href="pdf/en/entorno_ambiental.pdf">
+                                <img class="down" src="im/descargar_en.svg">
+                            </a>
+                        </div>
                     </div>
                 </li>
 
@@ -323,7 +354,10 @@ echo<<<HTML
                             </p>    
                         </div>
                         <div class="downBoxM">Environmental impact<br><br>
-                        <img class="down" src="im/descargar_en.svg"></div>                        
+                            <a target="_new" href="pdf/en/entorno_ambiental.pdf">
+                                <img class="down" src="im/descargar_en.svg">
+                            </a>
+                        </div>
                     </div>
                 </li>
 
@@ -346,7 +380,9 @@ echo<<<HTML
                         </div>
 
                         <div class="downBox">Social impact<br><br>
-                            <img class="down" src="im/descargar_en.svg">
+                            <a target="_new" href="pdf/en/entorno_social.pdf">
+                                <img class="down" src="im/descargar_en.svg">
+                            </a>
                         </div>
                     </div>
                 </li>  
@@ -366,7 +402,9 @@ echo<<<HTML
                              </p>    
                         </div>
                         <div class="downBoxM">Social impact<br><br>
-                            <img class="down" src="im/descargar_en.svg">
+                            <a target="_new" href="pdf/en/entorno_social.pdf">
+                                <img class="down" src="im/descargar_en.svg">
+                            </a>
                         </div>
                     </div>
                 </li>
