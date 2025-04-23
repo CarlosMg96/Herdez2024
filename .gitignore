@@ -1,0 +1,34 @@
+.git
+.DS_Store
+/.idea/
+/.vscode/
+/*.log
+*.swp
+*.swo
+
+# Archivos de caché
+/cache/
+/tmp/
+
+# Archivos y directorios específicos de dependencias (si usas Composer)
+vendor/
+
+# Archivos de entorno
+.env
+
+# Archivos compilados (si usas alguna herramienta de preprocesamiento)
+*.min.js
+*.min.css
+*.css.map
+*.js.map
+
+# Archivos del sistema operativo
+Thumbs.db
+Desktop.ini
+
+/var/php_errors.log
+
+assets/.DS_Store
+src/.DS_Store
+./assets/.DS_Store
+./src/.DS_Store

@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(135deg, #0f0f0f, #1a1a1a);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.container {
+    text-align: center;
+}
+
+.glitch {
+    font-size: 4rem;
+    position: relative;
+    color: white;
+    animation: flicker 2s infinite;
+}
+
+.glitch::before,
+.glitch::after {
+    content: attr(data-text);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    color: #ff00c8;
+    z-index: -1;
+}
+
+.glitch::before {
+    left: 2px;
+    text-shadow: -2px 0 cyan;
+    animation: glitch-left 2s infinite linear alternate-reverse;
+}
+
+.glitch::after {
+    left: -2px;
+    text-shadow: -2px 0 magenta;
+    animation: glitch-right 2s infinite linear alternate-reverse;
+}
+
+.subtitle {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    opacity: 0.8;
+    animation: fadeIn 4s ease-in-out infinite alternate;
+}
+
+@keyframes glitch-left {
+    0% { clip: rect(0, 9999px, 0, 0); }
+    50% { clip: rect(10px, 9999px, 80px, 0); }
+    100% { clip: rect(0, 9999px, 0, 0); }
+}
+
+@keyframes glitch-right {
+    0% { clip: rect(0, 9999px, 0, 0); }
+    50% { clip: rect(60px, 9999px, 100px, 0); }
+    100% { clip: rect(0, 9999px, 0, 0); }
+}
+
+@keyframes flicker {
+    0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {
+        opacity: 1;
+    }
+    20%, 24%, 55% {
+        opacity: 0;
+    }
+}
+
+@keyframes fadeIn {
+    from { opacity: 0.3; }
+    to { opacity: 1; }
+}
