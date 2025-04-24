@@ -574,7 +574,7 @@ echo<<<HTML
         <div class="w75 flex4">
             <div class="ft"><a href="pdf/en/compromiso_solido.pdf" target="_new"><img src="im/footer-1_en.jpg" data-aos="flip-right"></a></div>
             <div class="ft"><a href="pdf/en/alineacion_estrategica.pdf" target="_new"><img src="im/footer-2_en.jpg" data-aos="flip-left"></a></div>
-            <div class="ft"><a href="pdf/en/inovacion_y_desarrollo.pdf" target="_new"><img src="im/footer-3_en.jpg" data-aos="flip-right"></a></div>
+            <div class="ft"><a href="pdf/en/innovacion_y_desarrollo.pdf" target="_new"><img src="im/footer-3_en.jpg" data-aos="flip-right"></a></div>
             <div class="ft"><a href="pdf/en/entorno_ambiental.pdf" target="_new"><img src="im/footer-4_en.jpg" data-aos="flip-left"></a></div>
             <div class="ft"><a href="pdf/en/entorno_social.pdf" target="_new"><img src="im/footer-5_en.jpg" data-aos="flip-right"></a></div>
         </div>

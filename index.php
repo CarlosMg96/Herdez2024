@@ -597,7 +597,7 @@ En Grupo Herdez<sup>®</sup>, día a día integramos la sostenibilidad, tecnolog
         <div class="w75 flex4">
             <div class="ft"><a href="pdf/es/compromiso_solido.pdf" target="_new"><img src="im/footer-1.jpg" data-aos="flip-right"></a></div>
             <div class="ft"><a href="pdf/es/alineacion_estrategica.pdf" target="_new"><img src="im/footer-2.jpg" data-aos="flip-left"></a></div>
-            <div class="ft"><a href="pdf/es/inovacion_y_desarrollo.pdf" target="_new"><img src="im/footer-3.jpg" data-aos="flip-right"></a></div>
+            <div class="ft"><a href="pdf/es/innovacion_y_desarrollo.pdf" target="_new"><img src="im/footer-3.jpg" data-aos="flip-right"></a></div>
             <div class="ft"><a href="pdf/es/entorno_ambiental.pdf" target="_new"><img src="im/footer-4.jpg" data-aos="flip-left"></a></div>
             <div class="ft"><a href="pdf/es/entorno_social.pdf" target="_new"><img src="im/footer-5.jpg" data-aos="flip-right"></a></div>
         </div>
