@@ -576,7 +576,9 @@ En Grupo Herdez<sup>®</sup>, día a día integramos la sostenibilidad, tecnolog
     </div>
 
     <div class="hDivider">
-        <img  class="down highDown" src="im/descargar.svg">
+       <a href="pdf/es/carta_verificacion_externa.pdf" target="_new">
+       <img  class="down highDown" src="im/descargar.svg">
+       </a>
     </div>
 
 </div>

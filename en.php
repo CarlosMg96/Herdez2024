@@ -552,7 +552,9 @@ echo<<<HTML
 
 
     <div class="hDivider">
-        <img  class="down highDown" src="im/descargar_en.svg">
+        <a href="pdf/en/carta_verificacion_externa.pdf" target="_new">
+            <img  class="down highDown" src="im/descargar_en.svg">
+        </a>    
     </div>
 
 </div>
