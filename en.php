@@ -552,7 +552,7 @@ echo<<<HTML
 
 
     <div class="hDivider">
-        <a href="pdf/en/carta_verificacion_externa.pdf" target="_new">
+        <a href="pdf/en/Ficha_de_cifras_relevantes_2024.pdf" target="_new">
             <img  class="down highDown" src="im/descargar_en.svg">
         </a>    
     </div>
@@ -574,9 +574,61 @@ echo<<<HTML
         <div class="w75 flex4">
             <div class="ft"><a href="pdf/en/compromiso_solido.pdf" target="_new"><img src="im/footer-1_en.jpg" data-aos="flip-right"></a></div>
             <div class="ft"><a href="pdf/en/alineacion_estrategica.pdf" target="_new"><img src="im/footer-2_en.jpg" data-aos="flip-left"></a></div>
-            <div class="ft"><a href="pdf/en/inovacion_y_desarrollo.pdf" target="_new"><img src="im/footer-3_en.jpg" data-aos="flip-right"></a></div>
+            <div class="ft"><a href="pdf/en/innovacion_y_desarrollo.pdf" target="_new"><img src="im/footer-3_en.jpg" data-aos="flip-right"></a></div>
             <div class="ft"><a href="pdf/en/entorno_ambiental.pdf" target="_new"><img src="im/footer-4_en.jpg" data-aos="flip-left"></a></div>
             <div class="ft"><a href="pdf/en/entorno_social.pdf" target="_new"><img src="im/footer-5_en.jpg" data-aos="flip-right"></a></div>
+        </div>
+
+
+        <div class="flex3">
+            <a target="_new" href="pdf/en/Ficha_de_cifras_relevantes_2024.pdf">
+                <div class="downBar">
+                    <img src="im/arr_down.svg" class="da">
+                    Performance Highlights 2024
+                </div>
+            </a>
+            <a target="_new" href="pdf/en/Indicadores_GRI.pdf">
+                <div class="downBar">
+                    <img src="im/arr_down.svg" class="da">
+                    GRI Indicators
+                </div>
+            </a>
+            <a target="_new" href="pdf/en/Indicadores_SASB.pdf">
+                <div class="downBar">
+                    <img src="im/arr_down.svg" class="da">
+                    SASB Indicators
+                </div>
+            </a>
+            <a target="_new" href="pdf/en/MDA_2024.pdf">
+                <div class="downBar">
+                    <img src="im/arr_down.svg" class="da">
+                    Analysis of the Financial Year
+                </div>
+            </a>
+            <a target="_new" href="pdf/en/Estados_Financieros_Dictaminados.pdf">
+                <div class="downBar">
+                    <img src="im/arr_down.svg" class="da">
+                    Consolidated Financial Statements (spanish only)
+                </div>
+            </a>
+            <a target="_new" href="pdf/en/Informe_del_Comite_de_Auditoria.pdf">
+                <div class="downBar">
+                    <img src="im/arr_down.svg" class="da">
+                    Audit Committee Report (spanish only)
+                </div>
+            </a>
+            <a target="_new" href="pdf/en/Informe_del_Comite_de_Practicas_Societarias.pdf">
+                <div class="downBar">
+                    <img src="im/arr_down.svg" class="da">
+                    Corporate Practices Committee Report (spanish only)
+                </div>
+            </a>
+            <a target="_new" href="pdf/en/Carta_de_verificacion_limitada.pdf">
+                <div class="downBar">
+                    <img src="im/arr_down.svg" class="da">                    
+                    Independent Limited Verification Report (EY)
+                </div>
+            </a>
         </div>
     </div>
     <br>
