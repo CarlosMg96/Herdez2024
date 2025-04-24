@@ -232,7 +232,7 @@ En Grupo Herdez<sup>®</sup>, día a día integramos la sostenibilidad, tecnolog
                             Para Grupo Herdez<sup>®</sup>, la sostenibilidad del negocio no es solo un compromiso, es <span class="pt-sans-bold">#LoQueLlevamosDentro</span>. Nos guía el propósito de ser pasión, cultura y referente mundial de innovación en desarrollo sostenible.
                      </div>
 
-                        <div class="downBox">Alineación estretégica<br><br>
+                        <div class="downBox">Alineación estratégica<br><br>
                             <a target="_new" href="pdf/es/alineacion_estrategica.pdf">
                                 <img class="down" src="im/descargar.svg">
                             </a>
