@@ -38,7 +38,7 @@ echo <<<HTML
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FTC7BQVX1P"></script>
-<script>
+<script nonce="MiN0nc3F1j0-2024-Q9x7p8T">
 window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
