@@ -590,43 +590,43 @@ echo<<<HTML
             <a target="_new" href="pdf/en/Indicadores_GRI.pdf">
                 <div class="downBar">
                     <img src="im/arr_down.svg" class="da">
-                    GRI Indicators (PDF)
+                    GRI Indicators
                 </div>
             </a>
             <a target="_new" href="pdf/en/Indicadores_SASB.pdf">
                 <div class="downBar">
                     <img src="im/arr_down.svg" class="da">
-                    SASB Indicators (PDF)
+                    SASB Indicators
                 </div>
             </a>
             <a target="_new" href="pdf/en/MDA_2024.pdf">
                 <div class="downBar">
                     <img src="im/arr_down.svg" class="da">
-                    Analysis of the Financial Year Dec 31,2024
+                    Analysis of the Financial Year
                 </div>
             </a>
             <a target="_new" href="pdf/en/Estados_Financieros_Dictaminados.pdf">
                 <div class="downBar">
                     <img src="im/arr_down.svg" class="da">
-                    Consolidated Financial Statements (PDF spanish only)
+                    Consolidated Financial Statements (spanish only)
                 </div>
             </a>
             <a target="_new" href="pdf/en/Informe_del_Comite_de_Auditoria.pdf">
                 <div class="downBar">
                     <img src="im/arr_down.svg" class="da">
-                    Audit Committee Report (PDF spanish only)
+                    Audit Committee Report (spanish only)
                 </div>
             </a>
             <a target="_new" href="pdf/en/Informe_del_Comite_de_Practicas_Societarias.pdf">
                 <div class="downBar">
                     <img src="im/arr_down.svg" class="da">
-                    Corporate Practices Committee Report (PDF spanish only)
+                    Corporate Practices Committee Report (spanish only)
                 </div>
             </a>
             <a target="_new" href="pdf/en/Carta_de_verificacion_limitada.pdf">
                 <div class="downBar">
                     <img src="im/arr_down.svg" class="da">                    
-                    Independent Limited Verification Report (PDF EY)
+                    Independent Limited Verification Report (EY)
                 </div>
             </a>
         </div>
