@@ -576,7 +576,7 @@ En Grupo Herdez<sup>®</sup>, día a día integramos la sostenibilidad, tecnolog
     </div>
 
     <div class="hDivider">
-       <a href="pdf/es/cifras_relevantes_2024.pdf" target="_new">
+       <a href="pdf/es/cifras_relevantes_2024_2.pdf" target="_new">
        <img  class="down highDown" src="im/descargar.svg">
        </a>
     </div>
