@@ -388,7 +388,7 @@
     .mainPh3 { width:16%; position:absolute; top:29.6%;left:44.5%; }
     .mainPh4 { width:33.7%; position:absolute; top:28%;left:51%; }
 
-    .mainDiv { position:relative; margin:10vh auto auto auto;width:120vh; height:100vh; }
+    .mainDiv { position:relative; margin:10vh auto auto auto;width:120vh; height:100vh;}
 
     .main6m {display:none;}
 
@@ -502,7 +502,7 @@
             .elMensaje{ position:relative; height:fit-content; min-height:30vh;width:94vw; left:4vw; top:3vh; font-size:0.9em; border:0px solid white}
         }
 
-        .mainBack { width:100%; height:100%; background-image:url('im/main-back.jpg'); background-size:cover; background-position: center; }
+        .mainBack { width:100%; height:100%; background-image:url('im/main-back.jpg'); background-size:cover; background-position: center;  background-color:#BD0314;}
         .redLine { width:100%; background-color:#c22032; border-top:1px solid white;border-bottom:1px solid white; padding:1em 2em; }
         .firstDiv { width:100vw; min-height:100vh; background-color:white; position:relative; border-top:1px solid white; }
         .Photo1 { background-image:url('im/photo1.jpg');width:15vw; height:30vw; background-size:cover; background-position:center; position: absolute; left:4vw;top:8vh; border-radius:10px}
@@ -517,7 +517,7 @@
         .dirBack { background-image:url('im/director-background.jpg'); }
         .dirPh { height:90vh !important; bottom:1vh !important; }
 
-        .bgRed { background-image:url('im/bg-red.png'); }        
+        .bgRed { background-color: #BD0314; background-image:url('im/bg-red.png'); }        
         .fpBal { width:70%; margin-left:20%; margin-top:-10%; }
 
         .Titles { width:100%; text-align:center;position:absolute;top:0;left:0 }
