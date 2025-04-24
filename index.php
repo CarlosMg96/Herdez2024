@@ -576,7 +576,7 @@ En Grupo Herdez<sup>®</sup>, día a día integramos la sostenibilidad, tecnolog
     </div>
 
     <div class="hDivider">
-       <a href="pdf/es/cifras_relevantes_2024_2.pdf" target="_new">
+       <a href="pdf/es/Fichas_de_cifras_relevantes_2024.pdf" target="_new">
        <img  class="down highDown" src="im/descargar.svg">
        </a>
     </div>
@@ -601,6 +601,58 @@ En Grupo Herdez<sup>®</sup>, día a día integramos la sostenibilidad, tecnolog
             <div class="ft"><a href="pdf/es/entorno_ambiental.pdf" target="_new"><img src="im/footer-4.jpg" data-aos="flip-left"></a></div>
             <div class="ft"><a href="pdf/es/entorno_social.pdf" target="_new"><img src="im/footer-5.jpg" data-aos="flip-right"></a></div>
         </div>
+
+        <div class="flex3">
+            <a target="_new" href="pdf/es/Ficha_de_cifras_relevantes_2024.pdf">
+                <div class="downBar">
+                    <img src="im/arr_down.svg" class="da">
+                    Ficha de cifras relevantes
+                </div>
+            </a>
+            <a target="_new" href="pdf/es/Indicadores_GRI.pdf">
+                <div class="downBar">
+                    <img src="im/arr_down.svg" class="da">
+                    Indicadores GRI
+                </div>
+            </a>
+            <a target="_new" href="pdf/es/Indicadores_SASB.pdf">
+                <div class="downBar">
+                    <img src="im/arr_down.svg" class="da">
+                    Indicadores SASB
+                </div>
+            </a>
+            <a target="_new" href="pdf/es/MDA_2024.pdf">
+                <div class="downBar">
+                    <img src="im/arr_down.svg" class="da">
+                    Informe de la administración y análisis de resultados (MD&A)
+                </div>
+            </a>
+            <a target="_new" href="pdf/es/Estados_Financieros_Dictaminados.pdf">
+                <div class="downBar">
+                    <img src="im/arr_down.svg" class="da">
+                    Estados Financieros Dictaminados
+                </div>
+            </a>
+            <a target="_new" href="pdf/es/Informe_del_Comite_de_Auditoria.pdf">
+                <div class="downBar">
+                    <img src="im/arr_down.svg" class="da">
+                    Informe del Comité de Auditoría
+                </div>
+            </a>
+            <a target="_new" href="pdf/es/Informe_del_Comite_de_Practicas_Societarias.pdf">
+                <div class="downBar">
+                    <img src="im/arr_down.svg" class="da">
+                    Informe del Comité de Prácticas Societarias
+                </div>
+            </a>
+            <a target="_new" href="pdf/es/Carta_de_verificacion_limitada.pdf">
+                <div class="downBar">
+                    <img src="im/arr_down.svg" class="da">
+                    Carta de Verificación Limitada
+                </div>
+            </a>
+        </div>
+
     </div>
     <br>
 </div>

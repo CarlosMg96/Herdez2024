@@ -579,6 +579,12 @@
         .width43 { width:43%; }
 
 
+        .downBar {  width:29vw; margin:0.2vw; padding:0.4em 2em 0.4em 1em; color:white; background-color: #C22032; border-radius:4px;}
+            .downBar:hover {opacity:0.75; cursor:pointer;}
+            @media(max-width:1200px){   .downBar {  width:44vw;  }  }
+            @media(max-width:700px){   .downBar {  width:90vw;  }  }
+            .da { width:2em; margin-right:1em; vertical-align: middle;}
+
 </style>
 
 
