@@ -458,7 +458,7 @@
 
         @media(max-aspect-ratio:1600/800){
             .pTitle {right:13vw;}
-            .pFoto { left:21vw;
+            .pFoto { left:21vw};
         }
         @media(max-aspect-ratio:1300/800){
             .pTitle {right:12vw;}
@@ -501,6 +501,8 @@
             .qa {width:80vw; top:50vh}
             .elMensaje{ position:relative; height:fit-content; min-height:30vh;width:94vw; left:4vw; top:3vh; font-size:0.9em; border:0px solid white}
         }
+
+        
 
         .mainBack { width:100%; height:100%; background-image:url('im/main-back.jpg'); background-size:cover; background-position: center;  background-color:#BD0314;}
         .redLine { width:100%; background-color:#c22032; border-top:1px solid white;border-bottom:1px solid white; padding:1em 2em; }
@@ -585,6 +587,8 @@
             @media(max-width:700px){   .downBar {  width:90vw;  }  }
             .da { width:2em; margin-right:1em; vertical-align: middle;}
 
+
+            
 </style>
 
 
