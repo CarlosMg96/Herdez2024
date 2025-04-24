@@ -1,7 +1,6 @@
 <?php
 error_reporting(E_ALL);
 require_once "header.php";
-
 require_once "_css.php";
 
 echo<<<HTML
@@ -9,7 +8,7 @@ echo<<<HTML
 <div class="mainBack flex5">
 
     <img src="im/herdez-logo.svg" class="mainLogo">
-    <div class="EN_ES" onmouseup="document.location='./';">ES</div>
+    <div class="EN_ES" id="lang-switch">ES</div>
 
     <div class="mainDiv">
             

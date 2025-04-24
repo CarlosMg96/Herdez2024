@@ -1,7 +1,16 @@
 <script src="https://cdn.jsdelivr.net/npm/motion@11.11.16/dist/motion.js"></script>
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
-<script type="text/javascript">
+<script type="text/javascript" nonce="MiN0nc3F1j0-2024-Q9x7p8T">
+   document.addEventListener('DOMContentLoaded', () => {
+    document.getElementById('lang-switch')?.addEventListener('mouseup', () => {
+      document.location = './';
+    });
+
+    document.getElementById('lang-en')?.addEventListener('mouseup', () => {
+      document.location = 'en';
+    });
+  });
 
     const { animate, scroll, inView } = Motion
 

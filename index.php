@@ -10,7 +10,7 @@ echo<<<HTML
 <div class="mainBack flex5">
 
     <img src="im/herdez-logo.svg" class="mainLogo">
-    <div class="EN_ES" onmouseup="document.location='en';">EN</div>
+    <div class="EN_ES" id="lang-en">EN</div>
 
     <div class="mainDiv">
         
