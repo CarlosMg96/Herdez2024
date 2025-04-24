@@ -552,7 +552,9 @@ echo<<<HTML
 
 
     <div class="hDivider">
-        <img  class="down highDown" src="im/descargar_en.svg">
+        <a href="pdf/en/carta_verificacion_externa.pdf" target="_new">
+            <img  class="down highDown" src="im/descargar_en.svg">
+        </a>    
     </div>
 
 </div>
@@ -566,15 +568,15 @@ echo<<<HTML
     <br>
     <div class="flex1 footerDiv2">
         <div class="w25 cPointer" >
-            <img src="im/footer-main_en.jpg" class="width95" data-aos="fade-down">
-            <img src="im/descarga-informe_en.svg" class="downInf" >            
+            <a href="pdf/en/IA_Herdez_2024.pdf" target="_new"><img src="im/footer-main_en.jpg" class="width95" data-aos="fade-down"></a>
+            <a href="pdf/en/IA_Herdez_2024.pdf" target="_new"><img src="im/descarga-informe_en.svg" class="downInf" > </a>           
         </div>
         <div class="w75 flex4">
-            <div class="ft"><img src="im/footer-1_en.jpg" data-aos="flip-right"></div>
-            <div class="ft"><img src="im/footer-2_en.jpg" data-aos="flip-left"></div>
-            <div class="ft"><img src="im/footer-3_en.jpg" data-aos="flip-right"></div>
-            <div class="ft"><img src="im/footer-4_en.jpg" data-aos="flip-left"></div>
-            <div class="ft"><img src="im/footer-5_en.jpg" data-aos="flip-right"></div>
+            <div class="ft"><a href="pdf/en/compromiso_solido.pdf" target="_new"><img src="im/footer-1_en.jpg" data-aos="flip-right"></a></div>
+            <div class="ft"><a href="pdf/en/alineacion_estrategica.pdf" target="_new"><img src="im/footer-2_en.jpg" data-aos="flip-left"></a></div>
+            <div class="ft"><a href="pdf/en/inovacion_y_desarrollo.pdf" target="_new"><img src="im/footer-3_en.jpg" data-aos="flip-right"></a></div>
+            <div class="ft"><a href="pdf/en/entorno_ambiental.pdf" target="_new"><img src="im/footer-4_en.jpg" data-aos="flip-left"></a></div>
+            <div class="ft"><a href="pdf/en/entorno_social.pdf" target="_new"><img src="im/footer-5_en.jpg" data-aos="flip-right"></a></div>
         </div>
     </div>
     <br>

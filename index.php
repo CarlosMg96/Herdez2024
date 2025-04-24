@@ -576,7 +576,9 @@ En Grupo Herdez<sup>®</sup>, día a día integramos la sostenibilidad, tecnolog
     </div>
 
     <div class="hDivider">
-        <img  class="down highDown" src="im/descargar.svg">
+       <a href="pdf/es/carta_verificacion_externa.pdf" target="_new">
+       <img  class="down highDown" src="im/descargar.svg">
+       </a>
     </div>
 
 </div>
@@ -589,15 +591,15 @@ En Grupo Herdez<sup>®</sup>, día a día integramos la sostenibilidad, tecnolog
     <br>
     <div class="flex1 footerDiv2">
         <div class="w25 cPointer" >
-            <img src="im/footer-main.jpg" style="width:95%; " data-aos="fade-down">
-            <img src="im/descarga-informe.svg" class="downInf" >
+            <a href="pdf/es/IA_Herdez_2024.pdf" target="_new"><img src="im/footer-main.jpg" style="width:95%; " data-aos="fade-down"></a>
+            <a href="pdf/es/IA_Herdez_2024.pdf" target="_new"><img src="im/descarga-informe.svg" class="downInf" ></a>
         </div>
         <div class="w75 flex4">
-            <div class="ft"><img src="im/footer-1.jpg" data-aos="flip-right"></div>
-            <div class="ft"><img src="im/footer-2.jpg" data-aos="flip-left"></div>
-            <div class="ft"><img src="im/footer-3.jpg" data-aos="flip-right"></div>
-            <div class="ft"><img src="im/footer-4.jpg" data-aos="flip-left"></div>
-            <div class="ft"><img src="im/footer-5.jpg" data-aos="flip-right"></div>
+            <div class="ft"><a href="pdf/es/compromiso_solido.pdf" target="_new"><img src="im/footer-1.jpg" data-aos="flip-right"></a></div>
+            <div class="ft"><a href="pdf/es/alineacion_estrategica.pdf" target="_new"><img src="im/footer-2.jpg" data-aos="flip-left"></a></div>
+            <div class="ft"><a href="pdf/es/inovacion_y_desarrollo.pdf" target="_new"><img src="im/footer-3.jpg" data-aos="flip-right"></a></div>
+            <div class="ft"><a href="pdf/es/entorno_ambiental.pdf" target="_new"><img src="im/footer-4.jpg" data-aos="flip-left"></a></div>
+            <div class="ft"><a href="pdf/es/entorno_social.pdf" target="_new"><img src="im/footer-5.jpg" data-aos="flip-right"></a></div>
         </div>
     </div>
     <br>
