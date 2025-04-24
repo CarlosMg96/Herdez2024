@@ -552,7 +552,7 @@ echo<<<HTML
 
 
     <div class="hDivider">
-        <a href="pdf/en/cifras_relevantes_202.pdf" target="_new">
+        <a href="pdf/en/cifras_relevantes_2024.pdf" target="_new">
             <img  class="down highDown" src="im/descargar_en.svg">
         </a>    
     </div>
